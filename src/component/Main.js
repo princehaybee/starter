@@ -10,7 +10,7 @@ function Main() {
           <section id="welcome-section">
             <div className="intro">
              <div>
-              <Moment />
+              <p><Moment /></p>
               <h1>I'm Adewale </h1>
               <h2>a frontend developer</h2>
               
@@ -34,7 +34,7 @@ function Main() {
 
                 <Project 
                   name = "tribute-page"
-                  anchorUrl = "https://codepen.io/princehaybee/full/PobGqmj"
+                  anchorUrl = "https://tribute2bashorun.netlify.app/"
                   imgUrl = "TRIBUTE.PNG"
                   title = 'Tribute Page'      
                 /> 
