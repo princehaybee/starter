@@ -19,6 +19,7 @@ function Nav() {
   <div className="links">
     <li><a href="#welcome-section">home</a></li>
     <li><a href="#projects">projects</a></li>
+    <li><a href="#">resumè</a></li>
     <li><a href="#contact">contacts</a></li>
   </div>
 </div>
