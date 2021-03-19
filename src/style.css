@@ -66,6 +66,7 @@ li {
 .toggle-button {
   display: none;
   color: #ffffff;
+  padding-right: 5px;
 }
 
 
@@ -74,6 +75,8 @@ li {
 
 .links {
   display: block; 
+  padding-right: 10px;
+  
   
 }
 
@@ -87,7 +90,7 @@ li {
   display: block;
   text-align: center;
   text-decoration: none;
-  padding: 8px;
+  padding: 8px 16px;
   width: 100px;
   color: white;        
   font-family: cursive;
